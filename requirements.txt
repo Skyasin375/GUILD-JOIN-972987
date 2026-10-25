@@ -1,5 +1,6 @@
 Flask
 requests
+httpx
 pycryptodome
-protobuf
+protobuf==6.30.0
 PyJWT
